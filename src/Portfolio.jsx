@@ -249,6 +249,9 @@ useEffect(()=>{
 
                 </div>
             </section>
+            <section className="w-full h-[30vh] flex justify-center items-center text-[50px] font-bold bg-white">
+                <h3>Soon. :D</h3>
+            </section>
         
         
         </>
