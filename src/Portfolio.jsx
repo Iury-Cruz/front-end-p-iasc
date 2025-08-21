@@ -216,7 +216,7 @@ useEffect(()=>{
                                     </li>
                                     <li className="w-[15%] h-[25vh] hover:bg-[#181717] rounded-[20px] border-[2px] border-[gray] text-white text-center flex justify-center items-center bg-white hover:cursor-pointer transition delay-[0.5s] max-md:h-[15vh] max-md:rounded-xl max-sm:h-[10vh] max-sm:rounded-xl">
 
-                                        <a href="https://github.com/IurYAj" target="_blank">
+                                        <a href="https://github.com/Iury-Cruz" target="_blank">
                                             <img className="w-[60px] transition delay-[0.5s] hover:w-[80px] " src={githubic} alt="" />
                                         </a>
 
